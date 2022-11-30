@@ -1,12 +1,12 @@
 import java.util.*;
 
-public class AreaOfCircle
+public class VariableQ2
 {
     public static void main(String args[])
     {
         try (Scanner sc = new Scanner(System.in)) {
-            int r = sc.nextInt();
-            float area = 3.14f * r * r;
+            float s = sc.nextFloat();
+            float area = s * s;
             System.out.println(area);
         }
     }
