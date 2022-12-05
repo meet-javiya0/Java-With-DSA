@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class VariableQ5SignCheck
 {
     public static void main(String args[])
